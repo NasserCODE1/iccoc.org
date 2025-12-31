@@ -90,7 +90,7 @@ export class Contact implements OnInit, OnDestroy {
     }
 
     // أول إيميل من القائمة أو إيميل افتراضي
-    const to = this.emails[0] || 'info@iccoc.eu';
+    const to = this.emails[0] || 'info@iccoc.org';
 
     // نصوص من الترجمة (ثابتة)
     const brand   = this.t.instant('app.brand');

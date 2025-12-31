@@ -6,6 +6,6 @@ export const environment = {
     templateUserId: 'template_hwwp2uk',   // قالب المشترك (اختياري)
     templateAdminId: 'template_j1phdyd',  // قالب الإدارة
     publicKey: '4TFwsYsL6ZW07lXQN',
-    adminInbox: 'media@iccoc.eu'          // ← عدّلها هنا فقط عند الحاجة
+    adminInbox: 'info@iccoc.org'          // ← عدّلها هنا فقط عند الحاجة
   }
 };

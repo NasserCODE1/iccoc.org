@@ -188,7 +188,7 @@
 
 "contact": {
   "title": "اتصل بنا",
-  "emails": ["info@iccoc.eu", "media@iccoc.eu", "manager@iccoc.eu"],
+  "emails": ["info@iccoc.org", "media@iccoc.eu", "manager@iccoc.eu"],
   "message_placeholder": "اكتب لنا أي التقارير تهمّك أو رسالتك لنا",
   "message_error": "الرجاء كتابة رسالة مفيدة (10 أحرف على الأقل).",
   "form": {

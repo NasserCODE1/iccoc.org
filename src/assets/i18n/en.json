@@ -186,7 +186,7 @@
 
 "contact": {
   "title": "Contact Us",
-  "emails": ["info@iccoc.eu", "media@iccoc.eu", "manager@iccoc.eu"],
+  "emails": ["info@iccoc.org", "media@iccoc.eu", "manager@iccoc.eu"],
   "message_placeholder": "Write to us about the reports you're interested in or your message",
   "message_error": "Please write a meaningful message (at least 10 characters).",
   "form": {

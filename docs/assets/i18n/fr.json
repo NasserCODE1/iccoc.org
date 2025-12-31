@@ -184,7 +184,7 @@
 
 "contact": {
   "title": "Contactez-nous",
-  "emails": ["info@iccoc.eu", "media@iccoc.eu", "manager@iccoc.eu"],
+  "emails": ["info@iccoc.org", "media@iccoc.eu", "manager@iccoc.eu"],
   "message_placeholder": "Écrivez-nous quels rapports vous intéressent ou votre message",
   "message_error": "Veuillez écrire un message pertinent (au moins 10 caractères).",
   "form": {

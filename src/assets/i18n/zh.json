@@ -186,7 +186,7 @@
 
   "contact": {
     "title": "联系我们",
-    "emails": ["info@iccoc.eu", "media@iccoc.eu", "manager@iccoc.eu"],
+    "emails": ["info@iccoc.org", "media@iccoc.eu", "manager@iccoc.eu"],
     "message_placeholder": "请写下您感兴趣的报告或给我们的留言",
     "message_error": "请填写有意义的信息（至少10个字符）。",
     "form": {
