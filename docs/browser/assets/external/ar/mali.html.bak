@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>مالي تقاطع التهريب والإرهاب والجريمة العابرة للحدود</title>
+<meta name="robots" content="index,follow" />
+<style>
+  /* Reset-ish */
+  html,body{margin:0;padding:0}
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Naskh Arabic", "Helvetica Neue", Arial, "Noto Sans", system-ui, sans-serif;
+    background: linear-gradient(180deg, #f6f9fc 0%, #ffffff 100%);
+    color: #0b2240;
+    line-height: 1.65;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    padding: 28px;
+  }
+  .wrap { max-width: 920px; margin: 0 auto; }
+  .card {
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(10,30,60,0.06);
+    padding: 26px;
+    border: 1px solid rgba(15,40,70,0.04);
+  }
+  .breadcrumb {
+    display:flex;
+    gap:12px;
+    align-items:center;
+    margin-bottom:12px;
+    font-size:14px;
+    color:#475569;
+  }
+  .back-btn {
+    display:inline-block;
+    padding:8px 12px;
+    border-radius:8px;
+    background:#eef6ff;
+    color:#0b5ed7;
+    text-decoration:none;
+    font-weight:700;
+    border:1px solid rgba(11,94,215,0.08);
+  }
+  h1 {
+    margin: 6px 0 8px 0;
+    font-size: clamp(20px, 3.6vw, 30px);
+    line-height:1.12;
+    color:#05223a;
+    font-weight:800;
+  }
+  .meta {
+    color:#60748a;
+    font-size:14px;
+    margin-bottom:14px;
+  }
+
+  /* Image */
+  .hero-img {
+    display:block;
+    margin: 14px 0 20px 0;
+    width:100%;
+    max-width:800px; /* limit maximum displayed width */
+    height:auto;
+    border-radius:10px;
+    object-fit:cover;
+    box-shadow: 0 6px 18px rgba(10,30,60,0.06);
+  }
+
+  /* Article content */
+  article { color:#243b4a; font-size:16px; }
+  article p { margin: 14px 0; white-space: pre-wrap; }
+  article p.lead { font-size:18px; color:#334155; margin-top:0; }
+
+  /* Readability helpers */
+  .content-body { max-width:820px; margin: 0; }
+  .share { margin-top: 20px; display:flex; gap:10px; flex-wrap:wrap; }
+  .share a {
+    display:inline-flex; align-items:center; gap:8px; padding:8px 12px;
+    border-radius:8px; text-decoration:none; font-weight:700; font-size:14px;
+    background:#f1f5f9; color:#0b2240; border:1px solid rgba(11,94,215,0.04);
+  }
+
+  /* responsive */
+  @media (max-width: 880px) {
+    .wrap { padding: 0 12px; }
+    .hero-img { max-width:100%; }
+  }
+
+  /* Print improvements */
+  @media print {
+    body { background: #fff; color:#000; padding: 12px; }
+    .card { box-shadow:none; border:none; }
+    .back-btn, .share { display:none; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <div class="breadcrumb">
+        <a class="back-btn" href="/" onclick="event.preventDefault(); window.history.back();">&larr; العودة</a>
+        <div style="flex:1"></div>
+        <div class="meta">— — هيئة الإعلام</div>
+      </div>
+
+      <header>
+        <h1>مالي تقاطع التهريب والإرهاب والجريمة العابرة للحدود</h1>
+      </header>
+
+      <img src="/assets/media/mali.png" alt="مالي تقاطع التهريب والإرهاب والجريمة العابرة للحدود" class="hero-img" />
+
+      <section class="content-body">
+        <article>
+          <p class="lead">مالي تقاطع التهريب<br/> والإرهاب والجريمة العابرة للحدود.<br/>تعاني دولة مالي من أزمة وقود حادة تتظافر مع أزمات أخري متراكمة منها الأمني والسياسي والمالي وتقديرات الخبراء الدوليين أن النظام الحالي في البلاد قد يترنح في غضون فترة وجيزة. ما يعزز هذه الفرضية هو فقدان سيطرة القوات الحكومية على عدد من مناطق البلاد الشمالية وتمكن حركة الأزواد المسلحة من بسط سيطرتها هناك. لكن مشاكل البلاد المتعددة ليست وليدة اليوم بل تمتد في تنوعها وعمقها إلى عقود مضت. هنا في مالي يلتقي ما يسمي الإرهاب والتهريب بشتي أنواعه وأشكاله، والجريمة المنظمة على نطاق ضخم يغذي ذلك كله ويفاقم منه تراجع سلطة الدولة المركزية على أجزاء واسعة ن البلاد وتداخل أزمات إقليمية كثيرة وصراعات دولية وجدت لها موطئ قدم في مالي.</p>
+        </article>
+
+        <div class="share" aria-hidden="true">
+          <a href="#" onclick="navigator.clipboard?.writeText(location.href); alert('تم نسخ رابط الصفحة'); return false;">نسخ الرابط</a>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'_blank'); return false;">مشاركة على فيسبوك</a>
+          <a href="https://twitter.com/intent/tweet?url=" onclick="window.open('https://twitter.com/intent/tweet?url='+encodeURIComponent(location.href),'_blank'); return false;">تغريد</a>
+        </div>
+      </section>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,257 @@
+{
+  "lang": { "ar": "العربية", "en": "English", "fr": "Français", "zh": "中文" },
+
+  "app": {
+    "brand": "ICCOC",
+    "footer": "© ICCOC {{year}} – Tous droits réservés",
+    "org_full": "الهيئة الدولية لمكافحة الفساد والجريمة المنظمة",
+    "org_full_en": "International Commission Against Corruption and Organised Crime",
+    "org_full_fr": "Commission internationale contre la corruption et le crime organisé",
+    "org_full_zh": "国际反腐败与有组织犯罪委员会"
+  },
+
+  "nav": {
+    "home": "Accueil",
+    "menu": "Menu",
+    "company": "Entreprise",
+    "services": "Services",
+    "about": "À propos",
+    "who": "Qui sommes-nous",
+    "what": "Nos actions",
+    "reports": "Rapports",
+    "initiative": "Initiative",
+    "links": "Liens",
+    "contact": "Contact",
+    "media": "Médias"
+  },
+
+  "hero": {
+    "home_title": "Commission internationale contre la corruption et le crime organisé",
+    "home_sub": "Bienvenue sur le site officiel de la Commission – organisation non gouvernementale et à but non lucratif basée à Genève, Suisse."
+  },
+
+  "home": {
+    "welcome": "Bienvenue sur le site officiel de la Commission internationale contre la corruption et le crime organisé, une organisation non gouvernementale et à but non lucratif basée à Genève.",
+    "more_details": "Plus de détails",
+    "prev": "Précédent",
+    "next": "Suivant",
+    "goto_slide": "Aller à la diapositive {{num}}",
+    "subscribe": "Abonnez-vous à nos rapports",
+
+    "featured": {
+      "title": "Mali : au carrefour de la contrebande, du terrorisme et du crime transfrontalier",
+      "excerpt": "Le Mali fait face à des crises multiples : carburant, sécurité, politique. Les groupes armés et les réseaux de contrebande en font un foyer régional du crime et de l'instabilité."
+    },
+
+    "media": {
+      "title": "Médias",
+      "welcome": "Nous accueillons les contributions médiatiques, les couvertures de presse et les rapports liés aux travaux de la Commission."
+    },
+
+    "cards": {
+      "europe_gas": {
+        "title": "L’Europe : parviendra-t-elle à se sevrer du gaz russe ?",
+        "excerpt": "Depuis la guerre en Ukraine, l’Europe tente de réduire sa dépendance au gaz russe, mais les alternatives limitées et la dépendance structurelle ralentissent la transition."
+      },
+      "morocco": {
+        "title": "Maroc : crises et corruption entravant les réformes",
+        "excerpt": "Corruption, chômage et mécontentement social remettent en cause les promesses de réforme malgré les engagements du gouvernement."
+      },
+      "haftar": {
+        "title": "Haftar : empire de l’argent, du pouvoir et de la corruption",
+        "excerpt": "L’influence grandissante d’Haftar, alimentée par des réseaux financiers et militaires, redéfinit l’équilibre régional."
+      },
+      "human_smuggling": {
+        "title": "Trafic d’êtres humains : réseaux et enjeux politiques",
+        "excerpt": "Trafic, corruption et crime organisé s’entrecroisent dans l'un des défis les plus complexes pour les décideurs."
+      },
+      "sudan_rsf": {
+        "title": "Soudan : réseaux de soutien des RSF",
+        "excerpt": "Les RSF s’appuient sur des réseaux logistiques et politiques transnationaux qui renforcent leur présence au Soudan."
+      }
+    }
+  },
+
+  "about": {
+    "title": "À propos de la Commission",
+    "goals_title": "Objectifs",
+    "vision": "Un leadership mondial dans la lutte contre la corruption et le crime organisé.",
+    "mission": "Des sociétés humaines sans corruption ni crime organisé.",
+    "values": "Transparence, humanité, universalité, qualité et professionnalisme.",
+    "goals": [
+      "Contribuer aux efforts internationaux de lutte contre la corruption et le crime organisé et mettre en place des mesures préventives efficaces.",
+      "Plaider pour la mise en œuvre des mécanismes internationaux, notamment la Convention des Nations unies contre la corruption.",
+      "Sensibiliser aux risques et aux impacts sociaux de la corruption.",
+      "Soutenir les organisations de la société civile dans les efforts de lutte contre la corruption.",
+      "Mener des études juridiques pour évaluer et réviser les législations pertinentes.",
+      "Encourager l’adoption de lois anticorruption dans les États dépourvus de cadres juridiques.",
+      "Contribuer au suivi des affaires de corruption et à la préparation des dossiers pour examen par les autorités.",
+      "Mettre en œuvre des programmes de renforcement des capacités.",
+      "Promouvoir l’intégrité comme valeur éthique.",
+      "Fournir une assistance technique pour l’application des décisions internationales, notamment le recouvrement d’avoirs.",
+      "Fournir une assistance technique relative aux mesures nécessaires en matière de lutte contre la corruption."
+    ]
+  },
+
+  "who": {
+    "title": "Qui sommes-nous",
+    "body": [
+      "Organisation indépendante, non gouvernementale et à but non lucratif basée à Genève, l’ICCOC se concentre sur des questions essentielles touchant les populations : corruption et crime organisé.",
+      "Nous collaborons avec des institutions et des individus partageant nos objectifs et notre vision.",
+      "Créée au cœur de l’Europe, à proximité de l’ONU, la Commission œuvre pour la paix et la sécurité internationales."
+    ],
+    "brochure_hint": "Vous pouvez ajouter ici la brochure de présentation (PDF)."
+  },
+
+  "what": {
+    "title": "Ce que nous faisons",
+    "subtitle": "Programmes et activités pratiques",
+    "items": [
+      { "id": "act-1", "name": "Ateliers", "text": "Organisation de séminaires, conférences et ateliers." },
+      { "id": "act-2", "name": "Développement des lois", "text": "Constitution d’équipes locales et internationales pour développer les lois." },
+      { "id": "act-3", "name": "Partenariats", "text": "Établissement de partenariats avec les entités compétentes." },
+      { "id": "act-4", "name": "Protocoles d'accord", "text": "Signature de protocoles d’accord avec des institutions internationales." },
+      { "id": "act-5", "name": "Universités & ONG", "text": "Coopération avec les universités et les organisations de la société civile." },
+      { "id": "act-6", "name": "Traitement des signalements", "text": "Réception et transmission des signalements pour vérification." },
+      { "id": "act-7", "name": "Campagnes de sensibilisation", "text": "Lancer des campagnes dans les médias." },
+      { "id": "act-8", "name": "Événements mondiaux", "text": "Exploitation des occasions internationales pour promouvoir l’intégrité." },
+      { "id": "act-9", "name": "Partenariat communautaire", "text": "Renforcement des partenariats entre les parties." },
+      { "id": "act-10", "name": "Récompenses internationales", "text": "Participation aux prix internationaux de lutte contre la corruption." }
+    ]
+  },
+
+  "activities": {
+    "title": "Nos actions",
+    "items": [
+      "Participation à des événements internationaux.",
+      "Mise en place d’équipes spécialisées pour développer les lois.",
+      "Signature de protocoles d’accord et partenariats.",
+      "Coopération avec les universités et la société civile.",
+      "Réception et transmission des signalements.",
+      "Coopération médiatique pour les campagnes de sensibilisation.",
+      "Exploitation des journées internationales.",
+      "Renforcement des partenariats sociaux.",
+      "Participation à des prix internationaux."
+    ]
+  },
+
+  "news": {
+    "title": "Rapports & actualités",
+    "subscribe_title": "Abonnez-vous pour recevoir nos rapports",
+    "body": "Actualités, rapports et études liés aux travaux de la Commission. Merci de vous abonner pour les recevoir.",
+    "examples_title": "Exemples envoyés aux abonnés",
+    "ex1": "Bulletins périodiques sur l’actualité mondiale.",
+    "ex2": "Rapports spéciaux et analyses juridiques.",
+    "ex3": "Invitations à des événements.",
+    "form": {
+      "name": "Nom complet",
+      "phone": "Mobile (Telegram/Signal)",
+      "country": "Pays",
+      "city": "Ville",
+      "email": "E-mail",
+      "submit": "S’abonner"
+    },
+    "hints": {
+      "phone": "De préférence un numéro lié à Telegram ou Signal."
+    },
+    "errors": {
+      "name": "Le nom est requis (au moins 4 caractères).",
+      "phone": "Le numéro est requis.",
+      "email": "E-mail valide requis."
+    },
+    "success": "Merci pour votre abonnement !"
+  },
+
+  "initiative": {
+    "title": "Initiative",
+    "lead": "Signalez en toute confidentialité tout soupçon de corruption ou de crime transfrontalier.",
+    "body": "Écrivez-nous : reporting@iccoc.eu"
+  },
+
+  "links": {
+    "title": "Liens",
+    "items": [
+      ["Transparency International", "https://www.transparency.org/en/"],
+      ["ROLACC", "https://www.rolacc.qa/"],
+      ["Banque mondiale – Anticorruption", "https://www.worldbank.org/en/programs/anticorruption-for-development/priority-themes"],
+      ["Cour pénale internationale", "https://www.icc-cpi.int/"],
+      ["Cour internationale de Justice", "https://www.icj-cij.org/home"],
+      ["Europol", "https://www.europol.europa.eu/"],
+      ["INTERPOL", "https://www.interpol.int/en"],
+      ["ONUDC", "https://www.unodc.org/"],
+      ["Prix international contre la corruption", "https://www.aceaward.com/ar"]
+    ]
+  },
+
+  "contact": {
+    "title": "Contactez-nous",
+    "emails": ["info@iccoc.org", "media@iccoc.eu", "manager@iccoc.eu"],
+    "message_placeholder": "Écrivez votre message ou les rapports qui vous intéressent",
+    "message_error": "Veuillez écrire un message pertinent (au moins 10 caractères).",
+    "form": {
+      "interest": "Rapports qui vous intéressent",
+      "interest_ph": "Dites-nous quels rapports vous intéressent",
+      "message": "Message"
+    }
+  },
+
+  "mail": {
+    "subject_user": "Votre abonnement aux rapports {{brand}}",
+    "subject_admin": "Nouvel abonné depuis le site",
+    "heading_user": "Merci pour votre abonnement !",
+    "lead_user": "Nous vous enverrons des rapports sélectionnés de {{org}}.",
+    "cta_user": "Vous pouvez répondre pour toute question.",
+    "footer_line": "© {{brand}} – Tous droits réservés",
+    "heading_admin": "Détails du nouvel abonné",
+    "fields": {
+      "name": "Nom complet",
+      "phone": "Téléphone",
+      "country": "Pays",
+      "city": "Ville",
+      "email": "E-mail",
+      "lang": "Langue"
+    }
+  },
+
+  "reports": {
+    "title": "Rapports & actualités"
+  },
+
+  "media": {
+    "title": "Centre des médias",
+    "welcome": "Bienvenue dans la section des études et des rapports",
+    "recent": "Derniers articles",
+    "read_more": "Lire la suite",
+    "subscribe": "S'abonner",
+    "subscribe_desc": "Recevez les rapports en premier",
+    "back": "Retour",
+    "not_found": "Article introuvable"
+  },
+
+  "articles": {
+    "mali": {
+      "title": "Mali : au carrefour de la contrebande, du terrorisme et du crime transfrontalier",
+      "body": "Mali : au carrefour de la contrebande, du terrorisme et du crime transfrontalier.\nLe pays souffre d’une grave crise du carburant, aggravée par des crises sécuritaires, politiques et financières. La perte de contrôle sur plusieurs régions du nord renforce les craintes d’effondrement du régime."
+    },
+    "haftar": {
+      "title": "Haftar : un empire de l'argent, du pouvoir et de la corruption",
+      "body": "Haftar : un empire de l'argent, du pouvoir et de la corruption.\nDepuis qu'il contrôle l’est de la Libye, Khalifa Haftar a accumulé une immense fortune via des activités légales et illégales, consolidant ainsi son influence avec ses fils."
+    },
+    "morocco": {
+      "title": "Maroc : crises accumulées et corruption entravant les réformes",
+      "body": "Maroc : crises accumulées et corruption entravant les réformes.\nMalgré les promesses d’Aziz Akhannouch, peu de réformes se sont matérialisées, tandis que le chômage et la corruption alimentent le mécontentement social."
+    },
+    "europe": {
+      "title": "L'Europe peut-elle se sevrer du gaz russe ?",
+      "body": "L'Europe peut-elle se sevrer du gaz russe ?\nDepuis la guerre en Ukraine, l’Europe cherche des alternatives mais reste freinée par la dépendance structurelle de plusieurs États."
+    },
+    "smuggling": {
+      "title": "Trafic d'êtres humains : réseaux et dimensions politiques",
+      "body": "Trafic d'êtres humains : réseaux et dimensions politiques.\nLe trafic vers l’Europe et l’Amérique mêle crime organisé, terrorisme, trafic de drogue et corruption politique, rendant sa lutte extrêmement complexe."
+    },
+    "sudan": {
+      "title": "Forces de soutien rapide au Soudan : lignes de soutien et d'approvisionnement",
+      "body": "Forces de soutien rapide au Soudan : lignes de soutien et d'approvisionnement.\nLes crimes commis et publiés en ligne révèlent la brutalité de la milice et l’existence de réseaux régionaux et internationaux de soutien."
+    }
+  }
+}

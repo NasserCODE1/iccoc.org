@@ -1,0 +1,266 @@
+{
+  "lang": { "ar": "Arabic", "en": "English", "fr": "Français", "zh": "中文" },
+
+  "app": {
+    "brand": "ICCOC",
+    "footer": "© ICCOC {{year}} – All rights reserved",
+    "org_full": "الهيئة الدولية لمكافحة الفساد والجريمة المنظمة",
+    "org_full_en": "International Commission Against Corruption and Organised Crime",
+    "org_full_fr": "Commission internationale contre la corruption et le crime organisé",
+    "org_full_zh": "国际反腐败与有组织犯罪委员会"
+  },
+
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "company": "Company",
+    "services": "Services",
+    "about": "About",
+    "who": "Who We Are",
+    "what": "What We Do",
+    "reports": "Reports",
+    "initiative": "Initiative",
+    "links": "Links",
+    "contact": "Contact Us",
+    "media": "Media"
+  },
+
+
+
+
+
+  "hero": {
+    "home_title": "International Commission Against Corruption and Organised Crime",
+    "home_sub": "Welcome to the official website of the International Commission Against Corruption and Organized Crime, a non-governmental, non-profit organization based in Geneva, Switzerland."
+  },
+"home": {
+  "welcome": "Welcome to the official website of the International Commission Against Corruption and Organized Crime, a non-governmental, non-profit organization based in Geneva, Switzerland.",
+  "more_details": "More details",
+  "prev": "Previous",
+  "next": "Next",
+  "goto_slide": "Go to slide {{num}}",
+  "subscribe": "Subscribe to our reports",
+
+  "featured": {
+    "title": "Mali: The crossroads of smuggling, terrorism, and transnational crime",
+    "excerpt": "Mali faces overlapping crises of fuel, security, and politics. Armed groups and smuggling networks are turning it into a regional hub for crime and instability."
+  },
+
+  "cards": {
+    "europe_gas": {
+      "title": "Europe: Can it wean itself off Russian gas?",
+      "excerpt": "Europe seeks alternatives to Russian gas amid political pressure. Limited options and high dependency make the transition complex and uncertain."
+    },
+    "morocco": {
+      "title": "Morocco: Crises and corruption challenge reform",
+      "excerpt": "Economic promises collide with rising corruption and unemployment. Public frustration grows as reform outcomes fall short across key sectors."
+    },
+    "haftar": {
+      "title": "Haftar: Empire of money, power, and corruption",
+      "excerpt": "Haftar built vast influence through wealth and networks. His control reshaped eastern Libya, fueling political ambition and regional extension."
+    },
+    "human_smuggling": {
+      "title": "Human smuggling: Networks and political dimensions",
+      "excerpt": "Smuggling networks intersect with corruption and organized crime. A global challenge requiring political, security, and economic solutions."
+    },
+    "sudan_rsf": {
+      "title": "Sudan’s Rapid Support Forces: Supply networks",
+      "excerpt": "RSF operations reveal regional and international backing. Evidence shows structured supply and support beyond internal boundaries."
+    }
+  }
+},
+
+  "about": {
+    "title": "About the Commission",
+    "goals_title": "Goals",
+    "vision": "Global leadership in combating corruption and organized crime.",
+    "mission": "Human societies free of corruption and organized crime.",
+    "values": "Transparency, humanity, universality, quality and professionalism.",
+    "goals": [
+      "Contribute to international efforts to combat corruption and organized crime and develop effective preventive measures.",
+      "Advocate for the implementation of international mechanisms, plans and programs to fight corruption and organized crime, especially the United Nations Convention against Corruption.",
+      "Raise awareness of the risks and social impact of corruption.",
+      "Support civil society organizations to actively contribute to anti-corruption efforts.",
+      "Conduct legal studies to evaluate and review relevant local and international legislation, its effectiveness, and alignment with desired objectives.",
+      "Urge states lacking anti-corruption frameworks to adopt such laws and provide technical advice when needed.",
+      "Help follow up corruption cases and prepare files for study by competent national and international bodies.",
+      "Deliver capacity-building programs for specialized agencies and civil society organizations and interested individuals.",
+      "Promote integrity as an ethical value and explain the risks and impacts of corruption.",
+      "Provide technical assistance and advisory services to implement international decisions such as asset recovery in coordination with relevant entities.",
+      "Provide technical assistance on measures required for implementing international anti-corruption decisions in coordination with competent authorities."
+    ]
+  },
+
+  "who": {
+    "title": "Who We Are",
+    "body": [
+      "The International Commission Against Corruption and Organised Crime is an independent, non-governmental, non-profit organization based in Geneva, focusing on issues that affect people’s lives, foremost corruption and organized crime.",
+      "We collaborate with entities and individuals who share our goals and are ready to contribute to combating these crimes.",
+      "Established in the heart of Europe, near the United Nations, to contribute to international peace and security, support law-enforcement agencies, and empower civil society."
+    ],
+    "brochure_hint": "You can add the Commission’s introductory brochure (PDF) here."
+  },
+
+  "what": {
+  "title": "What We Do",
+  "subtitle": "Practical Programs & Activities",
+  "items": [
+    { "id": "act-1", "name": "Workshops", "text": "Organizing seminars, conferences, and workshops…" },
+    { "id": "act-2", "name": "Law Development", "text": "Forming local and international teams to amend and develop laws." },
+    { "id": "act-3", "name": "Partnerships", "text": "Establishing partnerships and agreements with relevant authorities." },
+    { "id": "act-4", "name": "MOUs", "text": "Signing memorandums of understanding with related international institutions." },
+    { "id": "act-5", "name": "Universities & NGOs", "text": "Cooperating with universities and civil society organizations…" },
+    { "id": "act-6", "name": "Reports Handling", "text": "Receiving reports and referring them for verification and follow-up." },
+    { "id": "act-7", "name": "Awareness Campaigns", "text": "Launching community awareness campaigns through the media." },
+    { "id": "act-8", "name": "Global Events", "text": "Leveraging international occasions to promote integrity." },
+    { "id": "act-9", "name": "Community Partnership", "text": "Strengthening community partnerships among various stakeholders." },
+    { "id": "act-10", "name": "International Awards", "text": "Participating in international anti-corruption awards." }
+  ]
+},
+
+  "activities": {
+    "title": "What We Do",
+    "items": [
+      "Organizing and participating in seminars, conferences and workshops on combating corruption and organized crime at local, regional and international levels.",
+      "Forming national and international teams to amend and develop laws.",
+      "Concluding partnerships, understandings and agreements with relevant entities.",
+      "Signing MOUs with international institutions.",
+      "Cooperating with universities and civil society to deliver education, training and awareness programs.",
+      "Receiving reports, complaints and tips and referring them for verification and follow-up by competent bodies.",
+      "Cooperating with media outlets to run public awareness campaigns.",
+      "Using international occasions, such as International Anti-Corruption Day, to promote integrity.",
+      "Encouraging cooperation among stakeholders and strengthening social partnership.",
+      "Encouraging and participating in international anti-corruption awards."
+    ]
+  },
+
+  
+
+  "news": {
+    "title": "Reports & News",
+    "subscribe_title": "Subscribe to receive our reports",
+    "body": "News of the Commission and related materials, in addition to reports and studies we publish. Please subscribe and send your details to receive these materials.",
+    "examples_title": "Examples of what we send to subscribers",
+    "ex1": "Periodic bulletins on global anti-corruption developments.",
+    "ex2": "Special reports and concise legal analyses.",
+    "ex3": "Invitations to events and workshops.",
+    "form": {
+      "name": "Full name",
+      "phone": "Mobile (Telegram/Signal)",
+      "country": "Country",
+      "city": "City",
+      "email": "Email",
+      "submit": "Subscribe"
+    },
+    "hints": {
+      "phone": "Prefer a number linked to Telegram or Signal for secure contact."
+    },
+    "errors": {
+      "name": "Name is required (4+ characters).",
+      "phone": "Phone number is required.",
+      "email": "A valid email is required."
+    },
+    "success": "Thanks for subscribing! Your details have been received."
+  },
+
+  "initiative": {
+    "title": "Initiative",
+    "lead": "Be proactive and confidentially report any suspicion of corruption or cross-border crime.",
+    "body": "Write to us: reporting@iccoc.eu"
+  },
+
+  "links": {
+    "title": "Links",
+    "items": [
+      ["Transparency International", "https://www.transparency.org/en/"],
+      ["Rule of Law and Anti-Corruption Center", "https://www.rolacc.qa/"],
+      ["World Bank – Global Anti-Corruption Program", "https://www.worldbank.org/en/programs/anticorruption-for-development/priority-themes"],
+      ["International Criminal Court", "https://www.icc-cpi.int/"],
+      ["International Court of Justice", "https://www.icj-cij.org/home"],
+      ["Europol", "https://www.europol.europa.eu/"],
+      ["INTERPOL", "https://www.interpol.int/en"],
+      ["UN Office on Drugs and Crime", "https://www.unodc.org/"],
+      ["International Anti-Corruption Excellence Award", "https://www.aceaward.com/ar"]
+    ]
+  },
+
+"contact": {
+  "title": "Contact Us",
+  "emails": ["info@iccoc.org", "media@iccoc.eu", "manager@iccoc.eu"],
+  "message_placeholder": "Write to us about the reports you're interested in or your message",
+  "message_error": "Please write a meaningful message (at least 10 characters).",
+  "form": {
+    "interest": "Reports you’re interested in",
+    "interest_ph": "Tell us which reports interest you",
+    "message": "Message"
+  }
+}
+,
+
+  "mail": {
+    "subject_user": "Your subscription to {{brand}} reports",
+    "subject_admin": "New subscriber from website",
+    "heading_user": "Thanks for subscribing!",
+    "lead_user": "We will send curated reports and briefs from {{org}} to your email.",
+    "cta_user": "You can reply to this email for any questions.",
+    "footer_line": "© {{brand}} – All rights reserved",
+    "heading_admin": "New subscriber details",
+    "fields": {
+      "name": "Full name",
+      "phone": "Phone",
+      "country": "Country",
+      "city": "City",
+      "email": "Email",
+      "lang": "Selected language"
+    }
+  },
+
+  "reports": {
+  "title": "Reports & News"
+},
+
+ "media": {
+    "title": "Media Center",
+    "welcome": "Welcome to the studies and reports section",
+    "recent": "Latest Articles",
+    "read_more": "Read More",
+    "subscribe": "Subscribe",
+    "subscribe_desc": "Get reports and studies first",
+    "back": "Back",
+    "not_found": "Article not found"
+  },
+
+  "articles": {
+
+    "mali": {
+      "title": "Mali: the crossroads between smuggling, terrorism and transnational crime",
+      "body": "Mali :the crossroads between smuggling, terrorism and transnational crime.\nMali is suffering from a severe fuel crisis, compounded by other accumulated crises including security, political, and financial problems. International experts estimate that the current regime in the country could collapse within a short period. This hypothesis is reinforced by the loss of government control over several northern regions of the country and the ability of the armed Azawad movement to extend its control there."
+    },
+
+    "haftar": {
+      "title": "Haftar: An Empire of Money, Power, and Corruption",
+      "body": "Haftar: An Empire of Money, Power, and Corruption\nSince seizing control of eastern Libya, retired General Khalifa Haftar has amassed a huge fortune through various business activities and other operations to acquire money through legal and illegal means. He and his sons, especially his expected successor Saddam Haftar, have become the sole masters."
+    },
+
+    "morocco": {
+      "title": "Morocco: Accumulated crises and corruption undermine reform efforts",
+      "body": "Morocco: Accumulated crises and corruption undermine reform efforts. Moroccan Prime Minister and businessman Aziz Akhannouch came to power a few years ago with many promises of economic, financial and political reform, fighting corruption and achieving sustainable development, but little of that has been achieved."
+    },
+
+    "europe": {
+      "title": "Will Europe Wean Itself Off Russian Gas?",
+      "body": "Will Europe Wean Itself Off Russian Gas?\nSince the start of the Russian war on Ukraine nearly three and a half years ago, Europe has been steadily and rapidly striving to reduce its dependence on Russian gas. However, this trend has encountered numerous obstacles, including the scarcity of viable alternatives and the indispensable reliance of some European countries, particularly those in Eastern Europe, on Russian gas. Can Europe tame its appetite for Russian Gas in light of international pressure from Washington."
+    },
+
+    "smuggling": {
+      "title": "People smuggling, networks and political dimensions",
+      "body": "People smuggling, networks and political dimensions\nThe story of human smuggling across borders into Europe and America intertwines organized crime, terrorism, drug and arms trafficking, and political corruption, making the unraveling of this dilemma one of the biggest challenges facing political, security, and economic decision-makers in both the West and the East."
+    },
+
+    "sudan": {
+      "title": "Support Militia in Sudan, Lines of support",
+      "body": "Support Militia in Sudan, Lines of support\nMany crimes have been committed by the Rapid Support Forces in Sudan since their confrontation with the Sudanese army began several years ago, but the crimes committed by the militia members and published on social media revealed unprecedented brutality and the involvement of regional and international support networks in what happened."
+    }
+  }
+
+}
